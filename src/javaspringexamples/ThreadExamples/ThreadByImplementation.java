@@ -1,10 +1,10 @@
-package com.codercocoon.ThreadExamples;
+package javaspringexamples.ThreadExamples;
 
 /**
  * This class presents how to implement a thread by implementing the Runnable
  * interface, and using sleep method.
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class ThreadByImplementation implements Runnable {

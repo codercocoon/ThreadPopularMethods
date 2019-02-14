@@ -1,10 +1,10 @@
-package com.codercocoon.ThreadExamples;
+package javaspringexamples.ThreadExamples;
 
 /**
  * This class presents how to implement a thread by extending the Thread class,
  * and using sleep method.
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class ThreadByExtension extends Thread {

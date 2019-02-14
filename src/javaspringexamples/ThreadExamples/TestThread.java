@@ -1,10 +1,10 @@
-package com.codercocoon.ThreadExamples;
+package javaspringexamples.ThreadExamples;
 
 /**
  * This class presents some popular methods about threads, especially : getId,
  * getName, isAlive, sleep, interrupt.
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class TestThread {
